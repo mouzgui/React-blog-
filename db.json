@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "dateTime": "10,06,2024 12:51:18",
+      "title": "post one s",
+      "body": "this is my first post"
+    }
+  ]
+}
